@@ -1,0 +1,4 @@
+/* Hides a specific note*/
+.notehide .nav-file {
+    display:none;
+}
