@@ -2,7 +2,7 @@
 	"id": "obsidian-note-hider",
 	"name": "Note Hider",
 	"version": "0.0.1",
-	"minAppVersion": "0.0.1",
+	"minAppVersion": "0.12.2",
 	"description": "This plugin allows you to hide certain notes from your sidebar. You can still find the notes in the Quick Switcher.",
 	"author": "Solarrixs",
 	"authorUrl": "Empty",
