@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
-	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"isDesktopOnly": false
+	"id": "obsidian-note-hider",
+	"name": "Note Hider",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "This plugin allows you to hide certain notes from your sidebar. You can still find the notes in the Quick Switcher.",
+	"author": "Solarrixs",
+	"authorUrl": "Empty",
+	"isDesktopOnly": true
 }
